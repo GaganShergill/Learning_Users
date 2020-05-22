@@ -1,0 +1,14 @@
+.index {
+  font-family: monospace;
+  color: rgb(57, 181, 43);
+  border-radius: 5px;
+  border: 2px solid rgb(105, 190, 238);
+  text-align: center;
+  /* background-color: black; */
+  padding: 200px;
+}
+
+.nav {
+  background-color: rgb(250, 74, 111);
+
+}
